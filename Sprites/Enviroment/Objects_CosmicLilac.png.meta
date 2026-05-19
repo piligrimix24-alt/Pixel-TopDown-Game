@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 69fceb5665983804188ad790ab414b3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb9a9b736bde8469a6e1c6db7848cc
+      internalID: -1659157823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f6f13806054e4d891c876eae8192a
+      internalID: -1449672235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f5f6cc1ca7244bb9d864d476e9f74
+      internalID: 430976802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13170314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31692f89719966c4babd757c0ced619b
+      internalID: -2077533297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10934353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07cd3de1d9ab2419ee2b394cc08231
+      internalID: -1861442688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9fb656fd69cf4fa361f155437d893
+      internalID: -668021366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01051826cdddd408b15baff0f5fda0
+      internalID: -784327507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602949969ae03a4459a1ee697855e73c
+      internalID: -576570543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144851eebc503d041b81cf99856f090f
+      internalID: -35968213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5802ea489a680488ec6b61ec8627b2
+      internalID: 1262301841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5287b3450f0aec4fbedd4cdeb63a299
+      internalID: -594234569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363590abfc6da3841b60917453f9e347
+      internalID: -365806864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc0cf24da6c59b4e8a5e50ecb58f581
+      internalID: -1576347929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CosmicLilac_Tiles 1_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203faa2887a1ebd4fb4bc3f8bafe0b8c
+      internalID: -250962518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b51d7bb9ac7ec04cb77a766c03fa92a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      CosmicLilac_Tiles 1_0: -162509748
+      CosmicLilac_Tiles 1_1: -3279516
+      CosmicLilac_Tiles 1_10: -511484356
+      CosmicLilac_Tiles 1_100: 926835351
+      CosmicLilac_Tiles 1_101: 378186020
+      CosmicLilac_Tiles 1_102: 1161717602
+      CosmicLilac_Tiles 1_103: -1741593006
+      CosmicLilac_Tiles 1_11: 1939796231
+      CosmicLilac_Tiles 1_12: -1449672235
+      CosmicLilac_Tiles 1_13: -912876136
+      CosmicLilac_Tiles 1_14: 1239863978
+      CosmicLilac_Tiles 1_15: 922783844
+      CosmicLilac_Tiles 1_16: -1365957733
+      CosmicLilac_Tiles 1_17: -13142882
+      CosmicLilac_Tiles 1_18: 979341837
+      CosmicLilac_Tiles 1_19: 1255774256
+      CosmicLilac_Tiles 1_2: -312069591
+      CosmicLilac_Tiles 1_20: 419995992
+      CosmicLilac_Tiles 1_21: -1005541355
+      CosmicLilac_Tiles 1_22: -181634216
+      CosmicLilac_Tiles 1_23: -234419113
+      CosmicLilac_Tiles 1_24: 430976802
+      CosmicLilac_Tiles 1_25: 1604295737
+      CosmicLilac_Tiles 1_26: -1124315376
+      CosmicLilac_Tiles 1_27: -1412744136
+      CosmicLilac_Tiles 1_28: -895743615
+      CosmicLilac_Tiles 1_29: -43471709
+      CosmicLilac_Tiles 1_3: -1592361814
+      CosmicLilac_Tiles 1_30: -1605962305
+      CosmicLilac_Tiles 1_31: -827261089
+      CosmicLilac_Tiles 1_32: -88106837
+      CosmicLilac_Tiles 1_33: -1948053363
+      CosmicLilac_Tiles 1_34: -1945020023
+      CosmicLilac_Tiles 1_35: -739468057
+      CosmicLilac_Tiles 1_36: -2077533297
+      CosmicLilac_Tiles 1_37: -546631867
+      CosmicLilac_Tiles 1_38: -1861442688
+      CosmicLilac_Tiles 1_39: 2060608861
+      CosmicLilac_Tiles 1_4: -1659157823
+      CosmicLilac_Tiles 1_40: 1394670813
+      CosmicLilac_Tiles 1_41: 1729734995
+      CosmicLilac_Tiles 1_42: 1420205569
+      CosmicLilac_Tiles 1_43: -95106891
+      CosmicLilac_Tiles 1_44: 2113238057
+      CosmicLilac_Tiles 1_45: 2125225445
+      CosmicLilac_Tiles 1_46: 921419345
+      CosmicLilac_Tiles 1_47: -994879599
+      CosmicLilac_Tiles 1_48: 567402022
+      CosmicLilac_Tiles 1_49: -668021366
+      CosmicLilac_Tiles 1_5: 1221832610
+      CosmicLilac_Tiles 1_50: 1093136885
+      CosmicLilac_Tiles 1_51: -275404098
+      CosmicLilac_Tiles 1_52: 769525754
+      CosmicLilac_Tiles 1_53: -1496638923
+      CosmicLilac_Tiles 1_54: 1171381069
+      CosmicLilac_Tiles 1_55: -1873688257
+      CosmicLilac_Tiles 1_56: -784327507
+      CosmicLilac_Tiles 1_57: 1374652683
+      CosmicLilac_Tiles 1_58: 1699359615
+      CosmicLilac_Tiles 1_59: -576570543
+      CosmicLilac_Tiles 1_6: 545799217
+      CosmicLilac_Tiles 1_60: -35968213
+      CosmicLilac_Tiles 1_61: 1262301841
+      CosmicLilac_Tiles 1_62: -594234569
+      CosmicLilac_Tiles 1_63: -365806864
+      CosmicLilac_Tiles 1_64: -1576347929
+      CosmicLilac_Tiles 1_65: 2076531915
+      CosmicLilac_Tiles 1_66: 993005640
+      CosmicLilac_Tiles 1_67: -340626392
+      CosmicLilac_Tiles 1_68: -1610163446
+      CosmicLilac_Tiles 1_69: -1213284516
+      CosmicLilac_Tiles 1_7: -888942565
+      CosmicLilac_Tiles 1_70: -456556221
+      CosmicLilac_Tiles 1_71: -2112234805
+      CosmicLilac_Tiles 1_72: -630788547
+      CosmicLilac_Tiles 1_73: -1423514415
+      CosmicLilac_Tiles 1_74: -370541176
+      CosmicLilac_Tiles 1_75: -112181158
+      CosmicLilac_Tiles 1_76: -263023485
+      CosmicLilac_Tiles 1_77: -250962518
+      CosmicLilac_Tiles 1_78: 728769188
+      CosmicLilac_Tiles 1_79: -1761754122
+      CosmicLilac_Tiles 1_8: -925507913
+      CosmicLilac_Tiles 1_80: -1813205719
+      CosmicLilac_Tiles 1_81: -1384337254
+      CosmicLilac_Tiles 1_82: 574695555
+      CosmicLilac_Tiles 1_83: 1396108400
+      CosmicLilac_Tiles 1_84: -831151566
+      CosmicLilac_Tiles 1_85: -1693292959
+      CosmicLilac_Tiles 1_86: -724080426
+      CosmicLilac_Tiles 1_87: -1776404719
+      CosmicLilac_Tiles 1_88: 2072847854
+      CosmicLilac_Tiles 1_89: -1296447140
+      CosmicLilac_Tiles 1_9: 1690695983
+      CosmicLilac_Tiles 1_90: 1590748044
+      CosmicLilac_Tiles 1_91: 787573489
+      CosmicLilac_Tiles 1_92: 642390413
+      CosmicLilac_Tiles 1_93: 768730309
+      CosmicLilac_Tiles 1_94: 1257595191
+      CosmicLilac_Tiles 1_95: 456003561
+      CosmicLilac_Tiles 1_96: -1582343195
+      CosmicLilac_Tiles 1_97: -1009813228
+      CosmicLilac_Tiles 1_98: -594391436
+      CosmicLilac_Tiles 1_99: 1178522932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
